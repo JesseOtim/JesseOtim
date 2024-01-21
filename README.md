@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JesseOtim
+                                                               👋 Hi, I’m @JesseOtim
 
 
 - 👀 I’m interested in mastering foundational concepts in computer science, specifically algorithms and data structures. I'm also diving into modern web development technologies, including Angular and TypeScript. Additionally, I'm exploring the world of server-side development using technologies like React.
