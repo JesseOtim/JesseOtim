@@ -1,14 +1,40 @@
-                                                               👋 Hi, I’m @JesseOtim
+                                                                  👋 Hi, I'm Jesse Otim
 
+I am a passionate Full Stack Developer with expertise in the MERN (MongoDB, Express.js, React, Node.js) stack. My journey in the world of software development has equipped me with a strong foundation in building robust and scalable web applications.
 
-- 👀 I’m interested in mastering foundational concepts in computer science, specifically algorithms and data structures. I'm also diving into modern web development technologies, including Angular and TypeScript. Additionally, I'm exploring the world of server-side development using technologies like React.
+                                                                  Skills and Technologies:
+Frontend: React.js, HTML5, CSS3, JavaScript
 
-- 💞️ I’m looking to collaborate on exciting projects that allow me to apply and enhance my skills in algorithms, data structures, and web development.
-- 📫 Reach me on my socials:
--  @Jesse0tim (X),
--  otimdanieljesse@gmail.com (Email)
+Backend: Node.js, Express.js, Java
 
-<!---
-JesseOtim/JesseOtim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Database: MongoDB, PostgreSQL
+
+CMS: WordPress
+
+VR/AR: Virtual Reality (VR), Augmented Reality (AR)
+
+Version Control: Git, GitHub
+
+Deployment: Heroku, Netlify
+
+                                                                  What I Bring to the Table:
+💻 Proven experience in developing end-to-end web solutions.
+
+🚀 Enthusiastic about open source projects and contributing to the developer community.
+
+🤝 Open to collaborations on exciting projects that push the boundaries of technology.
+
+                                                                 Let's Collaborate!
+I'm always open to new opportunities and collaborations. If you have a project in mind, want to discuss tech, or just grab a virtual coffee, feel free to reach out. Let's build something amazing together!
+
+Connect With Me:
+
+📧 Email: otimdanieljesse@gmail.com
+
+💼 LinkedIn: http://linkedin.com/in/jesse-otim-0334a1209
+
+🐦 Twitter: http://twitter.com/Jesse0tim
+
+🌐 Portfolio: 
+
+Looking forward to connecting with fellow developers and tech enthusiasts! 🚀✨
