@@ -1,4 +1,4 @@
-                                                                  👋 Hi, I'm Jesse Otim
+                                                                   Hi there 👋
 
 I am a passionate Full Stack Developer with expertise in the MERN (MongoDB, Express.js, React, Node.js) stack. My journey in the world of software development has equipped me with a strong foundation in building robust and scalable web applications.
 
