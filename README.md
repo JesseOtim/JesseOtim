@@ -2,21 +2,7 @@
 
 I am a passionate Full Stack Developer with expertise in the MERN (MongoDB, Express.js, React, Node.js) stack. My journey in the world of software development has equipped me with a strong foundation in building robust and scalable web applications.
 
-                                                                  Skills and Technologies:
-Frontend: React.js, HTML5, CSS3, JavaScript
-
-Backend: Node.js, Express.js, Java
-
-Database: MongoDB, PostgreSQL
-
-CMS: WordPress
-
-VR/AR: Virtual Reality (VR), Augmented Reality (AR)
-
-Version Control: Git, GitHub
-
-Deployment: Heroku, Netlify
-
+       
                                                                   What I Bring to the Table:
 💻 Proven experience in developing end-to-end web solutions.
 
