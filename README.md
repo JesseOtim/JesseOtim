@@ -12,15 +12,3 @@ I am a passionate Full Stack Developer with expertise in the MERN (MongoDB, Expr
 
                                                                  Let's Collaborate!
 I'm always open to new opportunities and collaborations. If you have a project in mind, want to discuss tech, or just grab a virtual coffee, feel free to reach out. Let's build something amazing together!
-
-Connect With Me:
-
-📧 Email: otimdanieljesse@gmail.com
-
-💼 LinkedIn: http://linkedin.com/in/jesse-otim-0334a1209
-
-🐦 Twitter: http://twitter.com/Jesse0tim
-
-🌐 Portfolio: 
-
-Looking forward to connecting with fellow developers and tech enthusiasts! 🚀✨
